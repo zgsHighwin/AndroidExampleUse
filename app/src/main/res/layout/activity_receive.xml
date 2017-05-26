@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_receive"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_change"
+        style="@style/marquee_text_view"
+        android:text="需要改变的文本"
+        />
+
+    <TextView
+        android:id="@+id/tv_start_to_send"
+        style="@style/marquee_text_view"
+        android:text="跳转到发送广播的页面"
+        />
+
+
+</LinearLayout>

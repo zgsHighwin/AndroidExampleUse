@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidExampleUse</string>
+    <string name="local_broad_cast_success">本地广播发送成功</string>
 </resources>
